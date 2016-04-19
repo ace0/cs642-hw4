@@ -54,5 +54,4 @@ Use Assignments > Dropbox to find the hw-4 submission folder.
 Each part is subquestion is worth up to 1 point for a total of 12 points for this assignment. There is no extra credit for this assignment.
 
 ## Collaboration Policy
-You are encouraged to use the internet, the Piazza discussion board for this class, and classmates for information about tools and setup. Please help your fellow classmates with setup and understanding Python, but don't discuss solution specifics with anyone beyond your project partner.
-
+You are encouraged to use the internet, the Piazza discussion board for this class, and classmates for information about tools and setup. Please help your fellow classmates with tools setup and understanding how to use WireShark, but don't discuss solution specifics with anyone beyond your project partner.
