@@ -1,37 +1,35 @@
 # Team members: UW ID #s and names - there is no special format for this.
 
 
-## Trace 1: HTTP
-### Give three websites (domain Nname and IP addresses) visited from source IP address `192.168.0.100`
+# Trace 1: HTTP
+## Give three websites (domain Nname and IP addresses) visited from source IP address `192.168.0.100`
 
-### Give three search queries and the domain of the site for each query made from source IP address `192.168.0.100`
-
-
-
-## Trace 2: FTP
-### What is the user name and password used to connect to the FTP server?
-
-### List any (and all) files that were downloaded.
+## Give three search queries and the domain of the site for each query made from source IP address `192.168.0.100`
 
 
-### List the full path for two files (in different directories) on the FTP server that were NOT downloaded.
+# Trace 2: FTP
+## What is the user name and password used to connect to the FTP server?
+
+## List any (and all) files that were downloaded.
 
 
-## Trace 3: Traceroute
-### Give the source IP address that issued the traceroute command and the 
-destination IP address.
+## List the full path for two files (in different directories) on the FTP server that were NOT downloaded.
+
+
+# Trace 3: Traceroute
+## Briefly describe how the traceroute tool works including which network protocols are in use.
+
+## Give the source IP address that issued the traceroute command and the destination IP address.
 
 ## List the IP addresses on the route between source and destination.
 
 
-## Trace 4: POP
-### What is the POP username and password?
+# Trace 4: POP
+## What is the POP username and password?
 
-### How many emails are in the user’s mailbox?
+## How many emails are in the user’s mailbox?
 
-### Give the contents of from, to, subject, and date for one email message.
+## Give the contents of from, to, subject, and date for one email message.
 
-### What email client (application) and operating system is this person using to send and receive email?
-
-
+## What email client (application) and operating system is this person using to send and receive email?
 
