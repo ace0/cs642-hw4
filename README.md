@@ -36,6 +36,7 @@ Wikipedia has a nice introduction: https://en.wikipedia.org/wiki/Traceroute.
 
 ## Trace 4: POP
 The post-office protocol (POP) is used for email.
+
 1. What is the POP username and password?
 
 1. How many emails are in the user’s mailbox?
